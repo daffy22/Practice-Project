@@ -1,0 +1,2 @@
+com/acme/homehealthy/BuildConfig.java
+ com.acme.homehealthy.BuildConfig

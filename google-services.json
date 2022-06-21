@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241245934876",
+    "project_id": "home-healthy14",
+    "storage_bucket": "home-healthy14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241245934876:android:1896907a4d869f42ef16d9",
+        "android_client_info": {
+          "package_name": "com.acme.homehealthy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241245934876-mrc6urf4nvilr3vqcqitj4erinjgdrn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZe-IYKo6_Uxu5f0Mz-lwXM15Ru7go4mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241245934876-mrc6urf4nvilr3vqcqitj4erinjgdrn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

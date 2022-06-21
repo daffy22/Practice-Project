@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sebas\\OneDrive - Universidad Peruana de Ciencias\\2021-02\\UNIVERSITY\\Apps Moviles\\0TRABAJOFINAL\\Mobile-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sebas\\.gradle\\caches\\transforms-3\\d493266bf6d07216c4e1384e763ba50b\\transformed\\appcompat-1.3.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">241245934876-mrc6urf4nvilr3vqcqitj4erinjgdrn4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">241245934876</string>
+    <string name="google_api_key" translatable="false">AIzaSyAZe-IYKo6_Uxu5f0Mz-lwXM15Ru7go4mE</string>
+    <string name="google_app_id" translatable="false">1:241245934876:android:1896907a4d869f42ef16d9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAZe-IYKo6_Uxu5f0Mz-lwXM15Ru7go4mE</string>
+    <string name="google_storage_bucket" translatable="false">home-healthy14.appspot.com</string>
+    <string name="project_id" translatable="false">home-healthy14</string>
+</resources>
